@@ -7,3 +7,6 @@
   "BOT_TOKEN": "TOKENHERE "
 }
 ```
+
+To run the bot 
+`node index.js`
